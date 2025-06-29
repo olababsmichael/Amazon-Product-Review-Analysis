@@ -18,29 +18,24 @@ To analyze Amazon product data to uncover insights on **discount strategies**, *
 ## 🔍 Key Business Questions Answered
 
 1. 🏷️ **Which categories offer the highest average discount?**  
-   - *Answer:* Discounts varied across categories, with some reaching as high as **58%**. The overall **average discount across all products was 47%**.  
-     *(From pivot analysis in dashboard)*
+   - **Home Improvement** offered the highest discount 
 
-2. 💬 **What’s the relationship between discount, rating, and review count?**  
-   - *Observations:* Products with **high discounts still maintain strong ratings**.  
-     Example: Several products with **50%+ discount** rated 4.5 stars and above.
+2. 💬 **What’s the relationship between rating and level of discount?**  
+   - The correlation bewteen rating and level of discount is -0.161798987. i.e As discount increases, rating tend to decrease, but weakly.
 
 3. 💰 **Which products generate the highest potential revenue?**  
-   - *Answer:* Products like **Fire-Boltt Ninja Call Pro Plus Smart Watch** dominate with high review counts and pricing — contributing significantly to **$113.1B** in total potential revenue.  
-     *(Seen in revenue chart and product breakdown)*
+   - **Fire-Boltt Ninja Call Pro Plus Smart Watch** dominate with high review counts and pricing — contributing significantly to **$113.1B** in total potential revenue.  
 
 4. ⭐ **Which products are top-rated?**  
-   - *Answer:* Products such as `B09ZHCJDP1`, `B0BQRJ3C47`, and others have perfect **5.0 ratings**.
+   - *Answer:* Products such as `Amazon Basics Wireless Mouse`, `Redtech Usb-C To Lightning Cable` and `Syncwire Ltg To Usb Cable` have perfect **5.0 ratings**.
 
 5. 📦 **How are products priced across buckets?**  
-   - *Answer:* Majority of products (**1166 out of 1465**) fall under the ₹0–₹10,000 price bucket.  
+   - *Answer:* Majority of products (**1166 out of 1351**) fall under the ₹0–₹10,000 price bucket.  
 
 ---
 
 ## 📈 Visual Insights
-
-Include or reference these visuals from your dashboard:
-
+---
 - 📊 **Average Discount % by Category**  
  <img src="./avgdiscount.png" alt="📊Average Discount % by Category" width="600" height="500">
 
