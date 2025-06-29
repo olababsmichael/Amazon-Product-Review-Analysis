@@ -77,7 +77,10 @@ To analyze Amazon product data to uncover insights on **discount strategies**, *
 - 📤 Dashboard Creation & Business Reporting
 
 ---
-
+##Analytics Dashboard
+---
+ <img src="./Dasboard.jpg" alt="📊Product Count by Price Range" width="600">
+ 
 ## ✅ Conclusion
 
 This analysis highlighted the power of Excel in generating business-ready insights. From identifying top products to understanding how pricing impacts engagement and revenue — **even a simple dataset can unlock major growth strategies** when explored correctly.
