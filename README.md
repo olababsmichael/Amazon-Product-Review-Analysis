@@ -77,7 +77,7 @@ To analyze Amazon product data to uncover insights on **discount strategies**, *
 - 📤 Dashboard Creation & Business Reporting
 
 ---
-##Analytics Dashboard
+## Analytics Dashboard
 ---
  <img src="./Dasboard.jpg" alt="📊Product Count by Price Range" width="600">
  
