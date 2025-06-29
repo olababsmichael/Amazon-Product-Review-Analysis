@@ -42,20 +42,20 @@ To analyze Amazon product data to uncover insights on **discount strategies**, *
 
 
 - 💵 **Average of Actual vs Discounted Price**  
-  <img src="./avg of AP vs DP.png" alt="📊Average of Actual vs Discounted Price" width="600" height="500">
+  <img src="./avg of AP vs DP.png" alt="📊Average of Actual vs Discounted Price" width="600">
 
 
 - 💡 **Top 5 Highest Rated Products**  
-   <img src="./top 5 product.jpg" alt="📊Top 5 Highest Rated Products" width="600" height="500">
+   <img src="./top 5 product.jpg" alt="📊Top 5 Highest Rated Products" width="600">
 
 - 🔥 **Most Reviewed Product**  
   - **Fire-Boltt Ninja Call Pro Plus Smart Watch** – top in engagement.
 
 - 📌 **Potential Revenue by Category**  
-  <img src="./productbypr.jpg" alt="📊Potential Revenue by Category" width="600" height="500">
+  <img src="./productbypr.jpg" alt="📊Potential Revenue by Category" width="600">
   
 - 🪙 **Product Count by Price Range**  
-  <img src="./price range by product count.jpg" alt="📊Product Count by Price Range" width="600" height="500">
+  <img src="./price range by product count.jpg" alt="📊Product Count by Price Range" width="600">
 
 ---
 
