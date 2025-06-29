@@ -1,5 +1,6 @@
 # 📦 Amazon Product Review Analysis  
-### _A Case Study by Olababs The Analyst_
+A case study built with Excel to analyze Amazon product listings, uncovering insights on discounts, ratings, reviews, and potential revenue. Features include a clean dashboard, pivot tables, and visual charts to support business decision-making.
+### Case Study by Olababs The Analyst_
 
 ---
 
