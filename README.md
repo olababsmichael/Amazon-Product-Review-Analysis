@@ -42,25 +42,25 @@ To analyze Amazon product data to uncover insights on **discount strategies**, *
 Include or reference these visuals from your dashboard:
 
 - 📊 **Average Discount % by Category**  
-  *(Bar chart showing category-wise average discounts, maxing at 58%)*
-  ![📊Average Discount % by Category](./files/avgdiscount%.png)
- 
+ <img src="./avgdiscount.png" alt="📊Average Discount % by Category" width="600" height="500">
+
 
 
 - 💵 **Average of Actual vs Discounted Price**  
-  *(Side-by-side column chart comparing actual and final prices)*
+  <img src="./avg of AP vs DP.png" alt="📊Average of Actual vs Discounted Price" width="600" height="500">
+
 
 - 💡 **Top 5 Highest Rated Products**  
-  *(Product codes with 5-star ratings)*
+   <img src="./top 5 product.jpg" alt="📊Top 5 Highest Rated Products" width="600" height="500">
 
 - 🔥 **Most Reviewed Product**  
   - **Fire-Boltt Ninja Call Pro Plus Smart Watch** – top in engagement.
 
 - 📌 **Potential Revenue by Category**  
-  *(Bar chart showing billions in revenue by category)*
-
+  <img src="./productbypr.jpg" alt="📊Potential Revenue by Category" width="600" height="500">
+  
 - 🪙 **Product Count by Price Range**  
-  *(Histogram from ₹0–₹90K, showing most products are under ₹10K)*
+  <img src="./price range by product count.jpg" alt="📊Product Count by Price Range" width="600" height="500">
 
 ---
 
