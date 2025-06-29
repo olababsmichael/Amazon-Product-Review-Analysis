@@ -37,7 +37,7 @@ To analyze Amazon product data to uncover insights on **discount strategies**, *
 ## 📈 Visual Insights
 ---
 - 📊 **Average Discount % by Category**  
- <img src="./avgdiscount.png" alt="📊Average Discount % by Category" width="600>
+ <img src="./avgdiscount.png" alt="📊Average Discount % by Category" width="600">
 
 
 
