@@ -48,7 +48,7 @@ To analyze Amazon product data to uncover insights on `**discount strategies**`,
 
 
 -  **Top 5 Highest Rated Products**  
-   <img src="./top 5 product.jpg" alt="Top 5 Highest Rated Products" width="600">
+  <img src="./top 5 product.jpg" alt="Top 5 Highest Rated Products" width="600">
 
 -  **Most Reviewed Product**  
   - **Fire-Boltt Ninja Call Pro Plus Smart Watch** – top in engagement.
