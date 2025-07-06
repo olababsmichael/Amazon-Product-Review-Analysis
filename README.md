@@ -1,5 +1,5 @@
 #  Amazon Product Review Analysis  
-A case study built with Excel to analyze Amazon product listings, uncovering insights on discounts, ratings, reviews, and potential revenue. Features include a clean dashboard, pivot tables, and visual charts to support business decision-making.
+A case study built with Excel to analyze Amazon product listings, uncovering insights on discounts, ratings, reviews, and potential revenue. Features include a clean dashboard, pivot tables, and visual charts to support business decision making.
 ### Case Study by Olababs The Analyst
 
 ---
@@ -7,7 +7,7 @@ A case study built with Excel to analyze Amazon product listings, uncovering ins
 ##  Project Overview
 
 **Objective:**  
-To analyze Amazon product data to uncover insights on `**discount strategies**`,  `**customer satisfaction**`,  and `**potential revenue**`   across categories.
+To analyze Amazon product data to uncover insights on `discount strategies`,  `customer satisfaction`,  and `potential revenue`   across categories.
 
 **Tools Used:**  
  - `Microsoft Excel`
@@ -85,7 +85,7 @@ To analyze Amazon product data to uncover insights on `**discount strategies**`,
  
 ##  Conclusion
 
-This analysis highlighted the power of Excel in generating business ready insights. From identifying top products to understanding how pricing impacts engagement and revenue — **even a simple dataset can unlock major growth strategies** when explored correctly.
+This analysis highlighted the power of Excel in generating business ready insights. From identifying top products to understanding how pricing impacts engagement and revenue **even a simple dataset can unlock major growth strategies** when explored correctly.
 
 ---
 
